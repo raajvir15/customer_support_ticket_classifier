@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+# sentence-transformers
+# torch
+# streamlit
+# plotly
+# joblib
+# notebook
+# openpyxl
