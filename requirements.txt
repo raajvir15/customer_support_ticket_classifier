@@ -3,10 +3,10 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-# sentence-transformers
-# torch
-# streamlit
-# plotly
-# joblib
-# notebook
-# openpyxl
+sentence-transformers
+torch
+streamlit
+plotly
+joblib
+notebook
+openpyxl
