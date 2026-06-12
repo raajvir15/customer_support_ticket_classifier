@@ -2,11 +2,11 @@ pandas
 numpy
 matplotlib
 seaborn
-scikit-learn
-sentence-transformers
+scikit-learn==1.9.0
+sentence-transformers==5.5.1
 torch
 streamlit
 plotly
-joblib
+joblib==1.5.3
 notebook
 openpyxl

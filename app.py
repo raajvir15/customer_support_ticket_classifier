@@ -230,7 +230,7 @@ st.caption("""
 """)
 
 with st.sidebar:
-    st.header("ℹ️ About")
+    st.header("About")
     st.markdown("""
     **Smart Ticket Classifier** uses BERT-based 
     sentence embeddings to automatically classify 
