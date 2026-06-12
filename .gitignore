@@ -16,7 +16,6 @@ __pycache__/
 .env
 
 # Model files (large)
-*.pkl
 *.h5
 
 # Torch cache
